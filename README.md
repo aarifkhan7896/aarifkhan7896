@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=aarifkhan7896)
+
 - 👋 Hi, I’m Aarif Khan
 - 🌱 I’m currently learning everything 🤣
 - 💞️ I’m looking to collaborate with other content creators
