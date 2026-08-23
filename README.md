@@ -34,19 +34,6 @@
 
 </br>
 
-### **_My Github Stats:_**
-
----
-
-<div align="center">
-&nbsp;
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarifkhan7896&layout=compact&theme=chartreuse-dark" />
-
-</div>
-
-</br>
-
 ### **_Connect With Me:_**
 
 ---
